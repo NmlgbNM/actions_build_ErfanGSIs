@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: http://bigota.d.miui.com/8.12.13/miui_MI6_8.12.13_cda51bb6da_8.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
