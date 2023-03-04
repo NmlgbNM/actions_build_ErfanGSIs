@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/8.12.13/miui_MI6_8.12.13_cda51bb6da_8.0.zip
+  ROM_URL: https://sl16k79de5vuiu04r3ithju60cs1fle8d16m18ommdn6borge3rvud5j.qc.dolfincdnx.net:46087/xdispatch6f103f6e78dc451b/bigota.d.miui.com/V12.5.18.0.RCDCNXM/miui_DANDELION_V12.5.18.0.RCDCNXM_8ac0be4127_11.0.zip?bsreqid=4a64d1001846e6b92b4bcd6a118de478&coldbiz=0&bsxdisp=se
   ROM_NAME: MIUI
-  BUILD_TYPE: aonly
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
